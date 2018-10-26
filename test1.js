@@ -1,4 +1,3 @@
-console.log ("hhh mmmmmmmmmmmmmmm ssss")
-console.log ("hhh mmmmmmmmmmmmmmm ssss")
-console.log ("hhh mmmmmmmmmmmmmmm ssss")
-console.log ("hhh mmmmmmmmmmmmmmm ssss")
+console.log ("hhh mmmmmmmmmmmmmmm")
+console.log ("hhh mmmmmmmmmmmmmmm")
+console.log ("hhh mmmmmmmmmmmmmmm")
